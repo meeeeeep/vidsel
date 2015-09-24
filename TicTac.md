@@ -1,19 +1,16 @@
 # Pizzeria Tic Tac
 
 #### Öppettider
-
 Tisdag-fredag, 11.00-20.00
 
 Lördag-söndag, 12.00-20.00
 
 
 #### Telefon
-
 0929-340 02
 
 
 #### Address
-
 V. Vidselsvägen 1
 
 942 95 Vidsel
@@ -46,7 +43,6 @@ Gellan   | 85   | tomat, ost, renskav, gorgonzola, oliver
 Gazal    | 85   | tomat, ost, renskav, paprika, lök, färska tomater
 
 
-
 ### Rullar
 Sås välj: orientdressing, vitlökssås, starksås
 
@@ -72,7 +68,9 @@ Lövbit       | 80   | pommes, bearnaisesås
 Kycklingfile | 95   | pommes, bearnaisesås
 Schnitzel    | 80   | pommes, bearnaisesås, citron
 
+
 ### Mexikanska rätter
+
 Namn         | Pris | Innehåll
 :------------|:-----|:-----------------------------------------------------------------------
 Nachosallad  | 80   | ost, köttfärs, nachochips, tacosås, creme fraiche, guacamole, grönsaker
@@ -209,5 +207,6 @@ Grekisk sallad  | 70   | isbergssallad, tomat, gurka, fetaost, lök, paprika, ol
 Skaldjurssallad | 70   | isbergssallad, tomat, gurka, räkor, musslor, citron, oliver, ost, krabfish
 Kebabsallad     | 70   | isbergssallad, tomat, gurka, lök, kebabkött, ost
 Husets sallad   | 70   | isbergssallad, tomat, gurka, majs, champinjoner, räkor, skinka, ananas, ost
+
 
 Senast uppdaterad: 2015-09-24
