@@ -1,0 +1,2 @@
+# vidsel
+Blandat om Vidsel.
