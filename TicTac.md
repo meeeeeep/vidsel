@@ -1,14 +1,21 @@
 # Pizzeria Tic Tac
 
 #### Öppettider
-Tisdag-fredag, 11.00-20.00 \
+
+Tisdag-fredag, 11.00-20.00
+
 Lördag-söndag, 12.00-20.00
 
+
 #### Telefon
+
 0929-340 02
 
+
 #### Address
+
 V. Vidselsvägen 1
+
 942 95 Vidsel
 
 
@@ -17,7 +24,6 @@ Lunchpaket 70kr, vardagar kl. 11.00-14.00. Gäller:
 * [Pizzor 60]
 * [Pizzor 70]
 * [Kebabmenyn]
-
 * Skrovmål
 * Ostburgare 150g
 * Kebabtallrik
@@ -203,3 +209,5 @@ Grekisk sallad  | 70   | isbergssallad, tomat, gurka, fetaost, lök, paprika, ol
 Skaldjurssallad | 70   | isbergssallad, tomat, gurka, räkor, musslor, citron, oliver, ost, krabfish
 Kebabsallad     | 70   | isbergssallad, tomat, gurka, lök, kebabkött, ost
 Husets sallad   | 70   | isbergssallad, tomat, gurka, majs, champinjoner, räkor, skinka, ananas, ost
+
+Senast uppdaterad: 2015-09-24
