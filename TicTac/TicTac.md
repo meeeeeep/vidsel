@@ -131,7 +131,7 @@ Nachotallrik | 80   | ost, köttfärs, strips, tacosås, creme fraiche, guacamol
 
 \# | Namn           | Pris | Innehåll
 :--|:---------------|:-----|:----------------------------------------------------------------------------
-39 | Kycklingpizza  | 80   | tomat, ost, ???, kyckling, peperoni, paprika
+39 | Kycklingpizza  | 80   | tomat, ost, lök, kyckling, peperoni, paprika
 40 | Ciao Ciao      | 80   | tomat, ost, oxfile, champinjoner, lök, vitlök, bearnaisesås
 41 | Venedig        | 80   | tomat, ost, skinka, oxfile, bearnaisesås
 42 | Paris          | 80   | tomat, ost, oxfile, kantareller, lök, färska tomater, bearnaisesås
@@ -173,7 +173,7 @@ Hamburgare 45g  | 35   | -
 Ostburgare 45g  | 40   | -
 Barnmål         | 50   | pommes
 Skrovmål        | 65   | hamburgare 90g, bröd, lök, sallad, dressing, pommes, läsk 0,4l
-Superskrovmål   | 80?  | pommes
+Superskrovmål   | 80   | pommes
 Dunderskrovmål  | 90   | pommes
 Jättemål        | 105  | pommes
 Grillbiff       | 80   | pommes
