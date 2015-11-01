@@ -132,7 +132,7 @@ Nachotallrik | 80   | ost, köttfärs, strips, tacosås, creme fraiche, guacamol
 \# | Namn           | Pris | Innehåll
 :--|:---------------|:-----|:----------------------------------------------------------------------------
 39 | Kycklingpizza  | 80   | tomat, ost, lök, kyckling, peperoni, paprika
-40 | Ciao Ciao      | 80   | tomat, ost, oxfile, champinjoner, lök, vitlök, bearnaisesås
+40 | Ciao Ciao      | 80   | tomat, ost, oxfile, champinjoner, lök, vitlök, bearnaisesås (halvinbakad)
 41 | Venedig        | 80   | tomat, ost, skinka, oxfile, bearnaisesås
 42 | Paris          | 80   | tomat, ost, oxfile, kantareller, lök, färska tomater, bearnaisesås
 43 | Vidsel Special | 80   | tomat, ost, oxfile, champinjoner, färska tomater, bearnaisesås
